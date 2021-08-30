@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+雨が降る日の朝7時に降水確率などのメッセージを送ってくれます。  
 
-Things you may want to cover:
+天気予報を検索する手間が省け時短になります。  
 
-* Ruby version
+<img width="1029" alt="weather_bot" src="https://user-images.githubusercontent.com/76866582/131276187-584172bb-17b9-4c73-8293-b5b3c9d0d6bb.png">
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
