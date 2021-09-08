@@ -1,6 +1,6 @@
 ### デモ  
 
-![weather-bot](https://user-images.githubusercontent.com/76866582/132553565-57dc7d45-a04b-4b64-b884-c1942879a400.gif)  
+![weather-bot (1)](https://user-images.githubusercontent.com/76866582/132553944-10b619f0-05e4-4d02-a4c3-64d599d020ae.gif)  
 
 雨が降る日の朝7時に降水確率などのメッセージを送ってくれます!  
 降水確率を教えてくれて、朝の忙しい時間の手助けになってくれます。
